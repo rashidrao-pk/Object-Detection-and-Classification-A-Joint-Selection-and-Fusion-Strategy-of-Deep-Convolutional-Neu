@@ -32,26 +32,26 @@ The size of final feature vector is 1 × 2100, which feed to ensemble classifier
 # Results
 
 ![Labeled_Caltech](https://user-images.githubusercontent.com/25412736/165834152-3239e7f0-e4be-4ab3-bf08-02a1448b91fe.png)
-Caltech-101 Dataset
+<br><center>Caltech-101 Dataset</center>
 
 ![Uploading Labeled_Pascal.png…]()
-Pascal3D Dataset
+<br><center>Pascal3D Dataset</center>
 
 ![Uploading Labeled_3Ddataset.png…]()
-3D Dataset
+<br><center>3D Dataset</center>
 
 ![time](https://user-images.githubusercontent.com/25412736/165834086-b5ff6d1a-cdbb-4a97-9c51-f3b7df6af1e7.jpg)
 
 ![confusion](https://user-images.githubusercontent.com/25412736/165834228-60473efa-4334-4c62-8289-f1c7190a88a6.jpg)
 
 ![caltech101](https://user-images.githubusercontent.com/25412736/165834261-d3c59dc2-54eb-48f0-acb1-70fb08e50b1d.jpg)
-Caltech-101 Dataset
+<br><center>Caltech-101 Dataset</center>
 
 ![PASCAl3D](https://user-images.githubusercontent.com/25412736/165834267-96182f58-ceeb-4c00-b366-48b654193b1f.jpg)
-Pascal3D Dataset
+<br><center>Pascal3D Dataset</center>
 
 ![Barkely](https://user-images.githubusercontent.com/25412736/165834279-b80ccbdd-200a-4077-a1f5-1299923216f3.jpg)
-Barkely Dataset 
+<br><center>Barkely Dataset </center>
 
 Muhammad Rashid, Muhammad Attique Khan, Muhammad Sharif, Mudassar Raza, Muhammad Masood, Farhat Afza (Multimedia Tools and Applications: IF 7.42 | 08-12-2018) 
 
