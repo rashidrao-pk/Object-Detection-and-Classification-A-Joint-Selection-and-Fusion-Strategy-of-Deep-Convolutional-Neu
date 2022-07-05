@@ -24,7 +24,7 @@ image
 
 
 # Feature Selection
-We empopyed entropy based feature Selection in this approach to reduce the extracted feature.
+We employed entropy based feature Selection in this approach to reduce the extracted feature.
 ![ENtropy](https://user-images.githubusercontent.com/25412736/177400790-8d56f56e-6725-4ee1-9ab5-e3108851ab81.png)
 
 
