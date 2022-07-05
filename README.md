@@ -15,7 +15,7 @@ are extracted from each key point that explains the local image region samples, 
 In this article, we employed two pre-trained deep CNN models such as VGG19 and AlexNet, which are used for features extraction. These models incorporate convolution layer, pooling layer, normalization layer, ReLu layer, and FC layer. As discussed above that convolution layer extract local features from an
 image
 
-# Features Extraction and Fusion
+# Features Extraction
 
 ![fused_final_model](https://user-images.githubusercontent.com/25412736/165833120-00538d95-86b3-455f-87f8-2a590b0199ce.png)
 
@@ -23,11 +23,18 @@ image
 ![max pooling](https://user-images.githubusercontent.com/25412736/165833825-f3a55557-8005-45d5-bdbd-61d30ac069c2.png)
 
 
+# Feature Selection
+We empopyed entropy based feature Selection in this approach to reduce the extracted feature.
+![ENtropy](https://user-images.githubusercontent.com/25412736/177400790-8d56f56e-6725-4ee1-9ab5-e3108851ab81.png)
+
+
+# Featre Fusion
+We employed Serial based Feature fusion
+
 𝚷(𝑭𝒖𝒔𝒆𝒅) = (𝑁 × 1000) + (𝑁 × 1000) + (𝑁 × 100)
 𝚷(𝑭𝒖𝒔𝒆𝒅) = 𝑁 × 𝑓𝑖
 
 The size of final feature vector is 1 × 2100, which feed to ensemble classifier for classification. The ensemble classifier is a supervised learning method, which need to training data for prediction. Ensemble method combines several classifiers data to produce a better system
-
 
 # Results
 
