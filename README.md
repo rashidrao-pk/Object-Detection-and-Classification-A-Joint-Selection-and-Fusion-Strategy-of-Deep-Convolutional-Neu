@@ -34,10 +34,11 @@ The size of final feature vector is 1 × 2100, which feed to ensemble classifier
 ![Labeled_Caltech](https://user-images.githubusercontent.com/25412736/165834152-3239e7f0-e4be-4ab3-bf08-02a1448b91fe.png)
 <br><center>Caltech-101 Dataset</center>
 
-![image](https://user-images.githubusercontent.com/25412736/177394645-38c2a639-f1ce-4bb1-ab07-a29cdcf9393f.png)
-
+![Uploading Labeled_Pascal.png…]()
 <br><center>Pascal3D Dataset</center>
 
+![Uploading Labeled_3Ddataset.png…]()
+<br><center>3D Dataset</center>
 
 ![time](https://user-images.githubusercontent.com/25412736/165834086-b5ff6d1a-cdbb-4a97-9c51-f3b7df6af1e7.jpg)
 
@@ -52,6 +53,6 @@ The size of final feature vector is 1 × 2100, which feed to ensemble classifier
 ![Barkely](https://user-images.githubusercontent.com/25412736/165834279-b80ccbdd-200a-4077-a1f5-1299923216f3.jpg)
 <br><center>Barkely Dataset </center>
 
-Muhammad Rashid, Muhammad Attique Khan, Muhammad Sharif, Mudassar Raza, Muhammad Masood, Farhat Afza (Multimedia Tools and Applications: IF 7.42 | 08-12-2018) 
+Muhammad Rashid, Muhammad Attique Khan, Muhammad Sharif, Mudassar Raza, Muhammad Masood, Farhat Afza (Multimedia Tools and Applications: Impact Factor 2.577 | 08-12-2018) 
 
 
